@@ -5,8 +5,10 @@
 
 \score {
   \relative c' {
-  \key 
-    c4
+  \key d\major
+    
+   
+
   }
 
   \layout {}
