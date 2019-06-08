@@ -4,8 +4,7 @@
 }
 
 \score{ 
-\relative c'{\key d\major
-  r4 fs8 d e}
+\relative c'{\key d\major}
   \layout {}
 \midi {}
 }
