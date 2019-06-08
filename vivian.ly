@@ -4,8 +4,8 @@
 }
 
 \score {
-  \relative c' {
-  \key d\major
+  \relative c' {\key d\major
+  fs8 d8 
     
    
 
