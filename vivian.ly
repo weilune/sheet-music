@@ -3,14 +3,11 @@
   composer = "魏里蓁"
 }
 
-\score {
-  \relative c' {\key d\major
-  fs8 d8 
-    
-   
-
-  }
-
+\score{ 
+\relative c'{\key d\major
+  r4 fs8 d e}
   \layout {}
-  \midi {}
+\midi {}
 }
+
+ 
