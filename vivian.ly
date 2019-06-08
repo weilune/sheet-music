@@ -3,7 +3,7 @@
   composer = "魏里蓁"
 }
 \language "english"
-\score{ 
+\score{
 \relative c'{\key d\major 
 r4 fs8 d8 e4~e8 fs16 d16~ |%1
 d16 b8.~b4 r4  cs8 d|%2
